@@ -7,7 +7,7 @@ tags:
   - GoogleCloud
   - Playwright
 private: false
-updated_at: '2026-05-02T13:48:40+09:00'
+updated_at: '2026-05-02T13:51:20+09:00'
 id: b3b4914e7560334e4e04
 organization_url_name: null
 slide: false
@@ -43,6 +43,10 @@ ignorePublish: false
 - 蓄電池設定値と実績
 
 をWebで確認できるようにしました。
+
+## ダッシュボード画面
+
+![ダッシュボード画面](https://raw.githubusercontent.com/nobunora/SolerControler/master/docs/images/dashboard.png)
 
 # Codexを使ってどれくらいで形になったか
 
