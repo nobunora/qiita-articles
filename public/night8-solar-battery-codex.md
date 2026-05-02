@@ -7,7 +7,7 @@ tags:
   - GoogleCloud
   - Playwright
 private: false
-updated_at: '2026-05-02T13:51:20+09:00'
+updated_at: '2026-05-03T00:52:13+09:00'
 id: b3b4914e7560334e4e04
 organization_url_name: null
 slide: false
