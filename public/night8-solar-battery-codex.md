@@ -1,14 +1,14 @@
 ---
 title: お得なナイト8向けに、翌日の日照予測で蓄電池設定を自動化してみた（Codex + Google Cloud）
 tags:
-  - python
-  - googlecloud
+  - Python
   - automation
-  - playwright
-  - energy
+  - Energy
+  - GoogleCloud
+  - Playwright
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-05-02T13:43:09+09:00'
+id: b3b4914e7560334e4e04
 organization_url_name: null
 slide: false
 ignorePublish: false
