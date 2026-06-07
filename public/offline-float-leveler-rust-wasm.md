@@ -7,7 +7,7 @@ tags:
   - Firebase
   - WebAssembly
 private: false
-updated_at: '2026-06-07T18:23:02+09:00'
+updated_at: '2026-06-08T01:29:18+09:00'
 id: 6e4184236d1414a71c4f
 organization_url_name: null
 slide: false
