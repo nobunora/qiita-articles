@@ -7,11 +7,13 @@ tags:
   - 防災
   - OSS
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-09-28T00:02:57+09:00'
+id: 1a64cc9921c83387dbdd
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 # はじめに
