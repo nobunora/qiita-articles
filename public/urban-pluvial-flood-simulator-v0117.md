@@ -1,13 +1,13 @@
 ---
 title: 身近な場所の内水氾濫を自分で試算できるWindowsアプリを作った
 tags:
-  - 洪水解析
-  - 国土地理院
   - SFINCS
-  - 水害
   - 内水
+  - 国土地理院
+  - 水害
+  - 洪水解析
 private: false
-updated_at: '2026-09-30T01:19:38+09:00'
+updated_at: '2026-10-01T08:01:30+09:00'
 id: 1a64cc9921c83387dbdd
 organization_url_name: null
 slide: false
@@ -40,9 +40,9 @@ agreed_posting_campaign_term: false
 
 Python、SFINCS、GDALなどを別にインストールする必要はありません。配布ZIPを展開してEXEを起動します。
 
-- [サンプル5件入り Windows版（約1.38 GB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.18/UrbanPluvialFloodSimulator-v0.1.18-windows-x64.zip)
-- [サンプルデータなし軽量版（約515 MB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.18/UrbanPluvialFloodSimulator-v0.1.18-windows-x64-no-samples.zip)
-- [GitHub Release v0.1.18](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/tag/v0.1.18)
+- [サンプル5件入り Windows版（約1.38 GB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.19/UrbanPluvialFloodSimulator-v0.1.19-windows-x64.zip)
+- [サンプルデータなし軽量版（約515 MB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.19/UrbanPluvialFloodSimulator-v0.1.19-windows-x64-no-samples.zip)
+- [GitHub Release v0.1.19](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/tag/v0.1.19)
 - [ソースコード](https://github.com/nobunora/urban-pluvial-flood-simulator)
 
 サンプル入り版には四日市、千葉、佐賀、名古屋の解析済みデータが入っています。アプリをダウンロードすれば、地図データの取得やSFINCSの計算を待たずに結果を直接開けます。まず表示だけ試したい場合はこちらが簡単です。
