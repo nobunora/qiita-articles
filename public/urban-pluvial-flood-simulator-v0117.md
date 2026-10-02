@@ -40,9 +40,9 @@ agreed_posting_campaign_term: false
 
 Python、SFINCS、GDALなどを別にインストールする必要はありません。配布ZIPを展開してEXEを起動します。
 
-- [サンプル5件入り Windows版（約1.38 GB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.19/UrbanPluvialFloodSimulator-v0.1.19-windows-x64.zip)
-- [サンプルデータなし軽量版（約515 MB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.19/UrbanPluvialFloodSimulator-v0.1.19-windows-x64-no-samples.zip)
-- [GitHub Release v0.1.19](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/tag/v0.1.19)
+- [サンプル5件入り Windows版（約1.38 GB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.20/UrbanPluvialFloodSimulator-v0.1.20-windows-x64.zip)
+- [サンプルデータなし軽量版（約506 MB）](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/download/v0.1.20/UrbanPluvialFloodSimulator-v0.1.20-windows-x64-no-samples.zip)
+- [GitHub Release v0.1.20](https://github.com/nobunora/urban-pluvial-flood-simulator/releases/tag/v0.1.20)
 - [ソースコード](https://github.com/nobunora/urban-pluvial-flood-simulator)
 
 サンプル入り版には四日市、千葉、佐賀、名古屋の解析済みデータが入っています。アプリをダウンロードすれば、地図データの取得やSFINCSの計算を待たずに結果を直接開けます。まず表示だけ試したい場合はこちらが簡単です。
@@ -222,8 +222,8 @@ Windows版には、自前ビルドしたSFINCS 2.4.0 Galibierと実行に必要�
 
 | 配布物 | 向いている人 | サイズ | SHA-256 |
 |---|---|---:|---|
-| サンプル入り | ダウンロード直後に計算済み結果を見たい | 1,378,126,664 bytes | `FAD46D7D03F0CC7143103AB3AD11C5E274488474307A2FF5374801BB56BB2E3B` |
-| サンプルなし | 自分の場所だけを解析したい、容量を抑えたい | 515,229,993 bytes | `23778914401CBEFB667C326F84E37D33A86D3F4451F4990A1380C04CDFEF1563` |
+| サンプル入り | ダウンロード直後に計算済み結果を見たい | 1,378,152,418 bytes | `AA561DFC929D0FD56A26E3448D51B81B7D261463EC6E538FD7A10DBFB960C639` |
+| サンプルなし | 自分の場所だけを解析したい、容量を抑えたい | 505,827,807 bytes | `287C4B1EEE2E531A7C28CA07F474AE64EA22A886B2061B7D0E91CD2C2B513BA3` |
 
 # おわりに
 
